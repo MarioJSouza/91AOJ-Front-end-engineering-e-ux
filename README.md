@@ -37,6 +37,8 @@ Com um design responsivo, o projeto Vue.js Todo oferece uma experiência perfeit
 
 ## Como rodar o projeto <a href='run-project'></a>
 
+### baixe o arquiovo fiap-challenge.zip
+
 ### Front-end
 
 1. rode `cd fiap-challenge-frontend`
